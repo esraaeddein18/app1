@@ -1,0 +1,32 @@
+.about{
+    background-color:RGB(26, 188, 156);
+    padding: 50px 25px;
+    text-align: center;
+    align-items: center;
+}
+.about .container{
+    text-align: center;
+}
+.text{
+    color:white;
+}
+.brd{
+    width:90px;
+    height:5px;
+    background-color:white;
+    
+}
+.flex {
+    display: flex;
+    gap:20px;
+    text-align:center !important;
+    margin: 0  440px;
+    padding: 10px 0;
+}
+.about p{
+    color: white;
+    padding-bottom: 20px;
+}
+.col-md-6{
+    width: 20px;
+}

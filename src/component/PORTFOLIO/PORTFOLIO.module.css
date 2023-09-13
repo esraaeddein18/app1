@@ -1,0 +1,20 @@
+
+.brd{
+    width:70px !important;
+    height:5px;
+    background-color:RGB(44, 62, 80);
+}
+.flex {
+    width:600px !important;
+    display: flex;
+    gap:20px;
+    text-align:center !important;
+    margin: 0 420px;
+    padding: 10px 0;
+}
+.port{
+    text-align: center;
+}
+img{
+    border-radius: 7px;
+}

@@ -1,0 +1,31 @@
+
+.brand{
+    color: white;
+    font-weight: 500;
+    margin-left: 70px;
+    font-size: 30px;
+    text-decoration: none;
+    list-style: none;
+}
+.item{
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+}
+.NAVBAR{
+    background-color: RGB(44, 62, 80) !important;
+}
+.btn{
+    background-color: RGB(26, 188, 156);
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    width: 120px;
+    height:40px;
+    text-align: center;
+    border-radius: 10px;
+    padding-right: 15px;
+}

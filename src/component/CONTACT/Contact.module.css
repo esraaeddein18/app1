@@ -1,0 +1,51 @@
+ .contact{
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+    vertical-align: baseline;
+    color:RGB(44, 62, 80)!important;
+    flex-grow: 1;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 8% 0;
+}
+.brd{
+    width:70px !important;
+    height:5px;
+    background-color:RGB(44, 62, 80);
+}
+.flex {
+    width:600px !important;
+    display: flex;
+    gap:20px;
+    text-align:center !important;
+    margin: 0 590px;
+    padding: 10px 0;
+}
+.btn{
+    background-color: RGB(26, 188, 156);
+    border: none !important;
+    width: 9.5%;
+    color: white;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 20px !important;
+}
+label{
+    color:RGB(26, 188, 156);
+    font-size: 18px;
+}
+input{
+    border-top: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    
+}
+.con{
+    text-align: center;
+    
+}

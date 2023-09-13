@@ -1,0 +1,11 @@
+.foot{
+    text-align: center;
+    background-color: RGB(44, 62, 80);
+    color: white;
+    padding: .1% 0;
+}
+.copy{
+    background-color: RGB(26, 37, 47);
+    padding: 25px 0;
+    text-align: center;
+}
